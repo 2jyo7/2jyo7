@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @2jyo7
-- 👀 I’m interested in Computer languages and it's application. 
-- 🌱 I’m currently learning React Js. 
+- 👋 Hi, I’m Soni Kumari, named my Github account 2jyo7.
+- 👀 I’m interested in learning and growing as to become an expert Software developer  
+- 🌱 I’m currently learning React Js,NextJs,NodeJs,and more.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @jyoti.kri2697@gmail.com
+- 📫 How to reach me @sojyo2795@gmail.com
 
 <!---
 2jyo7/2jyo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
